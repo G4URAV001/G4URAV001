@@ -34,6 +34,11 @@
 - **Tech:** React, TypeScript, CodeMirror, marked, Tailwind CSS
 - [GitHub Repo](https://github.com/G4URAV001/markdown-editor) | [Live Demo](https://markdown-editor-five-rust.vercel.app/)
 
+#### 📅 Todo App
+> Accessible and responsive to-do list with keyboard control, dark mode, and animations.
+- **Tech:** React, TypeScript, React Hook Form, React Query, Tailwind CSS
+- [GitHub Repo](https://github.com/G4URAV001/Todo) | [Live Demo](https://todo-five-alpha-60.vercel.app/)
+
 ### 📊 Loan Default Prediction (ML)  
 Trained models (Random Forest, XGBoost) on financial data to predict loan defaults with 80%+ accuracy.  
 > 🧠 Focus: Feature engineering, model evaluation, explainability.
