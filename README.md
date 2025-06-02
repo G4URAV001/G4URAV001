@@ -7,12 +7,12 @@
 
 ## 🛠️ Tech Skills
 
-**Languages:** TypeScript, JavaScript, CSS  
-**Frontend:** React, Vite, Tailwind CSS, Radix UI, React Router, Redux Toolkit, React Hook Form, Zod  
-**Backend:** Node.js, Express, MongoDB, Mongoose, Socket.IO, JWT, BcryptJS, Multer  
-**Tools:** Git, GitHub, ESLint, PostCSS, Autoprefixer, Vercel, VSCode
-**Frameworks & Tools:** Node.js, Express, React, MongoDB, Socket.IO, Scikit-Learn, XGBoost
-**Domains:** Real-time Systems, AI/ML, Software Development, Cybersecurity Basics, Open Source Collaboration
+- **Languages:** TypeScript, JavaScript, CSS  
+- **Frontend:** React, Vite, Tailwind CSS, Radix UI, React Router, Redux Toolkit, React Hook Form, Zod  
+- **Backend:** Node.js, Express, MongoDB, Mongoose, Socket.IO, JWT, BcryptJS, Multer  
+- **Tools:** Git, GitHub, ESLint, PostCSS, Autoprefixer, Vercel, VSCode
+- **Frameworks & Tools:** Node.js, Express, React, MongoDB, Socket.IO, Scikit-Learn, XGBoost
+- **Domains:** Real-time Systems, AI/ML, Software Development, Cybersecurity Basics, Open Source Collaboration
 
 ---
 
