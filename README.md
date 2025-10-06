@@ -39,13 +39,6 @@
 - **Tech:** React, TypeScript, React Hook Form, React Query, Tailwind CSS
 - [GitHub Repo](https://github.com/G4URAV001/Todo) | [Live Demo](https://todo-five-alpha-60.vercel.app/)
 
-### 📊 Loan Default Prediction (ML)  
-Trained models (Random Forest, XGBoost) on financial data to predict loan defaults with 80%+ accuracy.  
-> 🧠 Focus: Feature engineering, model evaluation, explainability.
-
-### 🌍 Climate Change Analysis  
-Analyzed global climate data to extract trends and anomalies using regression and visualization in Python.  
-> 🧠 Focus: Data cleaning, time series insights.
 
 ---
 
